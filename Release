@@ -1,0 +1,8 @@
+Label: 自由的风
+Origin: 自由的风
+Codename: 自由的风
+Description: 自用插件源
+Version: 1.1
+Suite: stable
+Components: main
+Architectures: iphoneos-arm64

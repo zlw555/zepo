@@ -30,23 +30,6 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
-Package: com.netskao.filzacrack
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 88
-Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
-Size: 4854
-MD5sum: cca66bdffa18a3371e11060ec53eb563
-SHA1: fdc824f452c5de7d7548fcd3387618fc0debcd60
-SHA256: 31f598ea071c33ea3f207807f6d5c4fc78c590f20d04f0664da6321b62f3757e
-Section: Netskao-Tweaks
-Homepage: https://tigisoftware.com/cydia/
-Description: Filza unlock full functionality, the main program please install in the official source
-Author: Netskao
-Name: Filza Crack
-
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-4
 Architecture: iphoneos-arm64
@@ -114,16 +97,16 @@ Author: z
 Name: 自用系统补丁
 
 Package: sysytemzypd
-Version: 1.8
+Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用系统补丁_1.8_iphoneos-arm64.deb
-Size: 39052
-MD5sum: 59c7d05c1841cfa5209d5bdb5ba8431c
-SHA1: 7b1459348005df1a19370a991519a58b413597ed
-SHA256: 1bfc4339219a8d6be95641eeb3ab7ce7d43be4671aac3e11ee60f4c9760f83ab
+Filename: ./debs/sysytemzypd_1.6_iphoneos-arm64.deb
+Size: 39038
+MD5sum: 8f0f87c6db1bd18700d9826e7555f4c1
+SHA1: e23febfc0fa48e37c14d18adcfb8582174d8bbd9
+SHA256: 26fb4824442e1c63b0d5fe96c05aef22f97262cd2d133cc0437b74582373cca9
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z

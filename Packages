@@ -14,6 +14,22 @@ Description: 隐藏语音留言。微信电话
 Author: z
 Name: 隐藏语音留言
 
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/trolllock_笑脸锁-arm64e.deb
+Size: 37150
+MD5sum: 445ee1fabcbf924909405e3bed144ced
+SHA1: da00d05aeb5d2b1ec83add820a6bdf4cd380ab41
+SHA256: 40e87f2ba7b93a9c0e080f1ad0e7917f92b6410501f320ddc95a58c155b64b07
+Section: Tweaks
+Priority: optional
+Description: 图标目录在/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
+Name: 巨魔锁-roothide
+
 Package: com.netskao.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -66,6 +82,22 @@ Sponsor: xybp888
 
 Package: nongye
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/nongye_1.0_iphoneos-arm64e.deb
+Size: 3332
+MD5sum: 37dc99271a71381973bcb49bdaf2c6c1
+SHA1: c801a84c1df05f64d5f65d8fbbf6a9c99512215d
+SHA256: ab943503d9685b4966f750b9e3d200911bc4e33d716a3d6b4672912ce14d0ff2
+Section: Tweaks
+Description: 启动广告
+Author: z
+Name: 农业银行V7.1.1优化-roothide
+
+Package: nongye
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 152
@@ -112,6 +144,22 @@ Description: 打包自用系统补丁
 Author: z
 Name: 系统补丁
 
+Package: sysytemzypd
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/sysytemzypd_1.6_iphoneos-arm64e.deb
+Size: 39018
+MD5sum: 46953173b2e9638960bdc06971286bbf
+SHA1: 96c625d95c6ba3e7b274d904d7a9a13ca46d4909
+SHA256: 33b80326ebd93a7e1fa5a3cdf2a1d0f1e258f82e6786c0246e1d977eb89fc67e
+Section: Tweaks
+Description: 打包自用系统补丁
+Author: z
+Name: 系统补丁-roothide
+
 Package: wechatqad
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -127,6 +175,38 @@ Section: Tweaks
 Description: 去朋友圈广告+默认勾选原图+微信聊天界面抬高
 Author: z
 Name: 微信补丁
+
+Package: wechatqad
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatqad_1.1_iphoneos-arm64e.deb
+Size: 2924
+MD5sum: 31c12a7c06213cefb0d6bcb3a16c927e
+SHA1: f5bc3d56a43f24545e62413db265481fc6d32eaf
+SHA256: 02bcc4947000539930d7db71e8bd5d789992222143cd0a55ef2a43308c5daa33
+Section: Tweaks
+Description: 去朋友圈广告+默认勾选原图+微信聊天界面抬高
+Author: z
+Name: 微信补丁-roothide
+
+Package: zgyh
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/zgyh_1.1_iphoneos-arm64e.deb
+Size: 3026
+MD5sum: 2cf0ea533bbbf170f594979ae4d2f15d
+SHA1: b4b96e20e829d13b1530cc32676aba3500adab41
+SHA256: 9320dbe72f4ad731888c4b870207e990bb2d01091de9683ada3848383184f10c
+Section: Tweaks
+Description: 去启动广告 为你推荐
+Author: z
+Name: 中国银行去广告-roothide
 
 Package: zgyh
 Version: 1.1

@@ -1,3 +1,22 @@
+Package: byg.iosios.net.filzacrack-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0)
+Filename: ./debs/byg.iosios.net.filzacrack-rootless_1.1-8_iphoneos-arm64e.deb
+Size: 6352
+MD5sum: 0d2eb07a5966d0082296b2b0cdce8bc7
+SHA1: 337a01907f6cf2a0bb5fe587ebbcb4771f22f419
+SHA256: 0d240b603cf7e095323df312306b187924458c8200f2d5f493eea816160f23fa
+Section: 软件破解
+Description: Filza unlock full functionality, the main program please install in the official source Filza破解插件
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Filza 破解插件-Rootless
+Sponsor: 搬运工
+
 Package: callshidevoicemailios
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -14,17 +33,51 @@ Description: 隐藏语音留言。微信电话
 Author: z
 Name: 隐藏语音留言
 
+Package: callshidevoicemailios
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/callshidevoicemailios_1.5_iphoneos-arm64e.deb
+Size: 3170
+MD5sum: b8029c60a33e6f0bb58ca8b941af5f4d
+SHA1: 94d9432953d651f1d93dabc2f6fb2a4e89a000d4
+SHA256: bfc848178be86c74ea0953689ab25ae80421b079961a65d3ff9f8f2748520289
+Section: Tweaks
+Description: 隐藏语音留言。微信电话
+Author: z
+Name: 隐藏语音留言
+
+Package: com.25mao.youquan.rootless
+Version: 3.0-8
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.youquan.rootless_3.0-8_iphoneos-arm64e.deb
+Size: 55732
+MD5sum: a68486dd8f4cabe9e71a6d0065289fba
+SHA1: ae47be0ab7a92695534e81800e32ce935b08e687
+SHA256: 66627d05762a075f4a728b0366274b6d66ec1a2792dc27948015166445121aa0
+Section: Rootless
+Priority: optional
+Description: 查淘宝优惠券，查商品历史价
+Author: Mao
+Name: 淘宝优惠券-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.nathan.trolllock
 Version: 1.0.3
 Architecture: iphoneos-arm64e
 Maintainer: Nathan
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/trolllock_笑脸锁-arm64e.deb
-Size: 37150
-MD5sum: 445ee1fabcbf924909405e3bed144ced
-SHA1: da00d05aeb5d2b1ec83add820a6bdf4cd380ab41
-SHA256: 40e87f2ba7b93a9c0e080f1ad0e7917f92b6410501f320ddc95a58c155b64b07
+Filename: ./debs/com.nathan.笑脸锁-arm64e.deb
+Size: 37188
+MD5sum: f4aba51571721790c96228347d97b034
+SHA1: cdbbf31a40d1ae73eca512d4eb0b1b2311f61373
+SHA256: 944e8939938286870e42d2257a2776918a81a5678140e8f24958dff15930daf2
 Section: Tweaks
 Priority: optional
 Description: 图标目录在/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
@@ -61,6 +114,26 @@ Section: Netskao-Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
+
+Package: com.xybp888.lockbutton
+Version: 0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: xybp888
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.xybp888.lockbutton_0.1-2_iphoneos-arm64e.deb
+Size: 32612
+MD5sum: 60e5b099219a053813b8f9e96d76be1b
+SHA1: 4dc802a7faad2007a2762cea4af280f694def934
+SHA256: 3f0652381141cec1f87d9bd03ef5f422d28bd79dde03031f382bcc2bcecf057f
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏(Rootless)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/26
+Icon: add You IconFiles URL
+Name: 一键锁屏(Rootless)
+Sileodepiction: https://apt.htv123.com/sileo/26
 
 Package: lockbutton
 Version: 0.1-2
@@ -145,16 +218,16 @@ Author: z
 Name: 系统补丁
 
 Package: sysytemzypd
-Version: 1.6
+Version: 1.8
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_1.6_iphoneos-arm64e.deb
-Size: 39018
-MD5sum: 46953173b2e9638960bdc06971286bbf
-SHA1: 96c625d95c6ba3e7b274d904d7a9a13ca46d4909
-SHA256: 33b80326ebd93a7e1fa5a3cdf2a1d0f1e258f82e6786c0246e1d977eb89fc67e
+Filename: ./debs/sysytemzypd_1.8_iphoneos-arm64e.deb
+Size: 39024
+MD5sum: 47ee9a50b3500cd81a040b22720b822d
+SHA1: 9438890c4e708baaf305da45561160eed355e6c0
+SHA256: 10eb8c6ad8156a28a69b126b8c7bb792bfa7298920457bc0771f5ceec14f7b75
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z

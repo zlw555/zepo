@@ -1,20 +1,20 @@
-Package: byg.iosios.net.filzacrack-rootless
+Package: byg.iosios.net.filzacrack-roothide
 Version: 1.1-8
 Architecture: iphoneos-arm64e
 Maintainer: 搬运工
 Installed-Size: 72
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 15.0)
-Filename: ./debs/byg.iosios.net.filzacrack-rootless_1.1-8_iphoneos-arm64e.deb
-Size: 6352
-MD5sum: 0d2eb07a5966d0082296b2b0cdce8bc7
-SHA1: 337a01907f6cf2a0bb5fe587ebbcb4771f22f419
-SHA256: 0d240b603cf7e095323df312306b187924458c8200f2d5f493eea816160f23fa
+Filename: ./debs/byg.iosios.net.filzacrack-roothide_1.1-8_iphoneos-arm64e.deb
+Size: 6372
+MD5sum: 48e28cb7de0b2a3528df5cfaeb835a12
+SHA1: 8e0ef3efea745314a1bab762b57fbb436b471ee0
+SHA256: bc90119eef56340ebec363a14cdfcd43dcebbaab2f7395c84d2b46cd213bc01d
 Section: 软件破解
 Description: Filza unlock full functionality, the main program please install in the official source Filza破解插件
 Author: Netskao
 Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Filza 破解插件-Rootless
+Name: Filza 破解插件-Roothide
 Sponsor: 搬运工
 
 Package: callshidevoicemailios
@@ -49,22 +49,22 @@ Description: 隐藏语音留言。微信电话
 Author: z
 Name: 隐藏语音留言
 
-Package: com.25mao.youquan.rootless
+Package: com.25mao.youquan.roothide
 Version: 3.0-8
 Architecture: iphoneos-arm64e
 Maintainer: admin@25mao.com
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.youquan.rootless_3.0-8_iphoneos-arm64e.deb
-Size: 55732
-MD5sum: a68486dd8f4cabe9e71a6d0065289fba
-SHA1: ae47be0ab7a92695534e81800e32ce935b08e687
-SHA256: 66627d05762a075f4a728b0366274b6d66ec1a2792dc27948015166445121aa0
-Section: Rootless
+Filename: ./debs/com.25mao.youquan.roothide_3.0-8_iphoneos-arm64e.deb
+Size: 55760
+MD5sum: 9e03ab2e76ffe6cceda941549a955013
+SHA1: a533e23b641de8c5e932d49aca687b74e50dad5a
+SHA256: 21846ecb49bce2a3db128b796570b605e4cb8f05e90a5289d1faa5a28f33d129
+Section: Roothide
 Priority: optional
 Description: 查淘宝优惠券，查商品历史价
 Author: Mao
-Name: 淘宝优惠券-Rootless
+Name: 淘宝优惠券-Roothide
 Sponsor: admin@25mao.com
 
 Package: com.nathan.trolllock
@@ -122,17 +122,17 @@ Maintainer: xybp888
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.xybp888.lockbutton_0.1-2_iphoneos-arm64e.deb
-Size: 32612
-MD5sum: 60e5b099219a053813b8f9e96d76be1b
-SHA1: 4dc802a7faad2007a2762cea4af280f694def934
-SHA256: 3f0652381141cec1f87d9bd03ef5f422d28bd79dde03031f382bcc2bcecf057f
+Size: 32620
+MD5sum: 344631965c1de98cda644a063d5e583b
+SHA1: 17fa0f362cf23868cbfbd6048bf0dd81d49cd205
+SHA256: 302ddbc1d63925d93f311c38858ed23fd3c4cef9bf796df22ecb3a92919e72ce
 Section: Tweaks
 Priority: optional
-Description: 一键锁屏(Rootless)
+Description: 一键锁屏(Roothide)
 Author: xybp888
 Depiction: https://apt.htv123.com/view/26
 Icon: add You IconFiles URL
-Name: 一键锁屏(Rootless)
+Name: 一键锁屏(Roothide)
 Sileodepiction: https://apt.htv123.com/sileo/26
 
 Package: lockbutton

@@ -186,38 +186,6 @@ Author: z
 Name: ✦农业银行V7.1.1优化
 
 Package: sysytemzypd
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 352
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用系统补丁_1.5_iphoneos-arm64.deb
-Size: 38946
-MD5sum: 0e5bf2366c8ccb800d5a5dae2f3e75de
-SHA1: 6ba7b85176de2221b96bbce9b963d12e6169709f
-SHA256: 05ca43ccfa889c1d7eeb3db48dc21e663f3c069227d19da047034d0653fd7ca3
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 自用系统补丁
-
-Package: sysytemzypd
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_1.7_iphoneos-arm64.deb
-Size: 38078
-MD5sum: 42d11d540780a7bf0ae7a5fb81842166
-SHA1: 96ebf1903095e07c034112aef97530c3108418b8
-SHA256: 0e8fdffbb9bb2ae929bdc0c63f8c3dfe15ae7a221ba09da05fb635b03124e74c
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 系统补丁
-
-Package: sysytemzypd
 Version: 1.8
 Architecture: iphoneos-arm64e
 Maintainer: z
@@ -234,36 +202,20 @@ Author: z
 Name: 系统补丁-roothide
 
 Package: wechatqad
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatqad_1.1_iphoneos-arm64.deb
-Size: 2896
-MD5sum: 97b593cfb5ac10cc20217bfdc50ebdbe
-SHA1: 63d41b3afbc347513fc57b91365080411b202ce4
-SHA256: af3523335e73d7043d687d4f2e4ba662c0a06e7353c208ef64f1d1c618df2784
+Filename: ./debs/wechatqad_1.2_iphoneos-arm64.deb
+Size: 2876
+MD5sum: 6f6bfcd1f666f08847901693b410d5d6
+SHA1: e2ecfb660c0ed8283515e2d70ca8c25918e33a27
+SHA256: a5a5af65377da9d1abfddcb18320cec06ae7e7ff34399db1cf3f6297d3ddb6f0
 Section: Tweaks
-Description: 去朋友圈广告+默认勾选原图+微信聊天界面抬高
+Description: 去朋友圈广告+默认勾选原图
 Author: z
 Name: 微信补丁
-
-Package: wechatqad
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatqad_1.1_iphoneos-arm64e.deb
-Size: 2924
-MD5sum: 31c12a7c06213cefb0d6bcb3a16c927e
-SHA1: f5bc3d56a43f24545e62413db265481fc6d32eaf
-SHA256: 02bcc4947000539930d7db71e8bd5d789992222143cd0a55ef2a43308c5daa33
-Section: Tweaks
-Description: 去朋友圈广告+默认勾选原图+微信聊天界面抬高
-Author: z
-Name: 微信补丁-roothide
 
 Package: ximalaya
 Version: 2.0

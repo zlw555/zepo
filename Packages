@@ -18,22 +18,6 @@ Name: Filza 破解插件-Roothide
 Sponsor: 搬运工
 
 Package: callshidevoicemailios
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/隐藏语音留言_1.0_iphoneos-arm64.deb
-Size: 2402
-MD5sum: 9a21ac81d2c32168f03b016ba97d30a4
-SHA1: 689a2caab8e720f4d9192c939c8cc782cd10d439
-SHA256: 0590432d65748fe2d95c417afef265cb9de8d838323a40025009b955427e87fd
-Section: Tweaks
-Description: 隐藏语音留言。微信电话
-Author: z
-Name: 隐藏语音留言
-
-Package: callshidevoicemailios
 Version: 1.5
 Architecture: iphoneos-arm64e
 Maintainer: z
@@ -44,6 +28,22 @@ Size: 3170
 MD5sum: b8029c60a33e6f0bb58ca8b941af5f4d
 SHA1: 94d9432953d651f1d93dabc2f6fb2a4e89a000d4
 SHA256: bfc848178be86c74ea0953689ab25ae80421b079961a65d3ff9f8f2748520289
+Section: Tweaks
+Description: 隐藏语音留言。微信电话
+Author: z
+Name: 隐藏语音留言
+
+Package: callshidevoicemailios
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/隐藏语音留言_1.5_iphoneos-arm64.deb
+Size: 2402
+MD5sum: 5811ce558ded7adc0ff5f1d2f5d1c4d0
+SHA1: f1c1b236477b2d60e101278a4bcbbc14984a9035
+SHA256: ea31e954560516a1625e4717cb1b9935be1389788bd2efe0cca6e316cb951564
 Section: Tweaks
 Description: 隐藏语音留言。微信电话
 Author: z

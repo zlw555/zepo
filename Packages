@@ -185,6 +185,22 @@ Description: 启动广告
 Author: z
 Name: ✦农业银行V7.1.1优化
 
+Package: sysytemzypd
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/sysytemzypd_1.7_iphoneos-arm64e.deb
+Size: 38040
+MD5sum: ae4989c1b94bd8841e40d68eb8bbd775
+SHA1: f5213e6d583cf7946b1391b71360119e56351a83
+SHA256: dd291b6fafbdeb0b6084969d9a2627a803a18d1cf73366f29f9481eeeccb278a
+Section: Tweaks
+Description: 打包自用系统补丁
+Author: z
+Name: 系统补丁
+
 Package: wechatqad
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -216,22 +232,6 @@ Section: Tweaks
 Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
 Name: 喜马拉雅优化-roothide
-
-Package: ximalaya
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/ximalaya_2.1_iphoneos-arm.deb
-Size: 5150
-MD5sum: 5458477bc196ff42cc4f54dbdb39be0b
-SHA1: f874e7ddcefe2153a86457e12c6f81af663ed044
-SHA256: 36826ea2f76abfe4ff604caf13065376b30a25c5ff909fb61bd1af1fb48dd538
-Section: Tweaks
-Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
-Author: z
-Name: 喜马拉雅优化
 
 Package: zgyh
 Version: 1.1

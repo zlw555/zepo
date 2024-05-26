@@ -234,18 +234,18 @@ Author: z
 Name: 微信补丁
 
 Package: ximalaya
-Version: 2.0
+Version: 2.5
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/ximalaya_2.0_iphoneos-arm64e.deb
-Size: 5130
-MD5sum: 4698f5f78c2b426ee380a768dd440e0a
-SHA1: 4739d89a95b16a1c668354f1dd88781d6d8784a2
-SHA256: 74ebaa6cd226cad1f7d0c99f4a3d1d94ca622b8539ce7a4de784a47ce82e48b1
+Filename: ./debs/ximalaya_2.5_iphoneos-arm64e.deb
+Size: 5112
+MD5sum: 34411589849b308e087a604cea04bda4
+SHA1: 68668a1b464d3d596a476d435ea27c4f5a04d8c5
+SHA256: 5297fec84556d7631b231b759583c971c624fa0d84d176fe4b5ee7dc5abf6fff
 Section: Tweaks
-Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Description: 最新9.2.51去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
 Name: 喜马拉雅优化-roothide
 

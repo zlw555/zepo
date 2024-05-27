@@ -19,22 +19,6 @@ Sponsor: 搬运工
 
 Package: callshidevoicemailios
 Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/callshidevoicemailios_1.5_iphoneos-arm64e.deb
-Size: 3072
-MD5sum: a5a4f197f8eead7035be4bffcd7e8256
-SHA1: 8e51d7ca9c39dec0cab5c6619d72bf3dc8e64afe
-SHA256: 024ef6ec29803650192f0eca2e196b3d52ce5a20d7eef82b41e8dcf85fd0559f
-Section: Tweaks
-Description: 隐藏语音留言。微信电话
-Author: z
-Name: 隐藏语音留言
-
-Package: callshidevoicemailios
-Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 88
@@ -44,6 +28,22 @@ Size: 2402
 MD5sum: 5811ce558ded7adc0ff5f1d2f5d1c4d0
 SHA1: f1c1b236477b2d60e101278a4bcbbc14984a9035
 SHA256: ea31e954560516a1625e4717cb1b9935be1389788bd2efe0cca6e316cb951564
+Section: Tweaks
+Description: 隐藏语音留言。微信电话
+Author: z
+Name: 隐藏语音留言
+
+Package: callshidevoicemailios
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/callshidevoicemailios_1.6_iphoneos-arm64e.deb
+Size: 3072
+MD5sum: d226038f3d9dba364c7e2ff4dbd88f29
+SHA1: 338000ca7587319096fd44874cdfa6b5e99f13d3
+SHA256: eda0917a452a68de5fb80a1840a3b29d1e5f2e0dc66f31d3ac14b81d7a6b781e
 Section: Tweaks
 Description: 隐藏语音留言。微信电话
 Author: z

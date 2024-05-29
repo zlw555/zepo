@@ -192,26 +192,10 @@ Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/sysytemzypd_1.8_iphoneos-arm64e.deb
-Size: 38064
-MD5sum: 29efa2a31dcedfd4dcc40982aed846e6
-SHA1: 6dcf36c17eca8231101d1a4d496ce746109ea486
-SHA256: c92ea455159558f25118e39338fc1712717f2c968572393df494ff49ee003ee0
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 系统补丁
-
-Package: sysytemzypd
-Version: 1.9
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_1.9_iphoneos-arm64e.deb
-Size: 38030
-MD5sum: 526176a239566363de74b1d1f18bf6ee
-SHA1: 3742d9aeb089699fea47d873c62d90c597834ca3
-SHA256: c8c330a97b58fa2317594805b30474975a274b106faecf2c5acd5f2f5753eef9
+Size: 38112
+MD5sum: fe849dcc2289b8d1e237c2281628b130
+SHA1: f4ca4d5082f832f4d5429d28f80cab85b0f85bb0
+SHA256: 8be140496d2b82d943cf84f798be985c2cd9d5e0cf638f615f7c19ab8c613e8a
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
@@ -264,6 +248,22 @@ Section: Tweaks
 Description: 最新9.2.51去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
 Name: 喜马拉雅优化-roothide
+
+Package: z.wechat
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/z.wechat_1.3_iphoneos-arm64e.deb
+Size: 15974
+MD5sum: 7e8e2a88268566dc93f4e433491969f2
+SHA1: c9150c709c316627113efea04cb447cdc932a12e
+SHA256: ff4c4a9f31648ec6256241c755d8e642faf52549038fa393ccfdf8ba162c34cb
+Section: Tweaks
+Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
+Author: z
+Name: WeChatHookLite
 
 Package: zgyh
 Version: 1.1

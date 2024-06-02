@@ -1,3 +1,22 @@
+Package: byg.iosios.net.disablepastetips-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/byg.iosios.net.disablepastetips-rootless_1.1-5_iphoneos-arm64e.deb
+Size: 4216
+MD5sum: a1f85c04c5a34bcc4dbd77ad3b46bd6f
+SHA1: 41879dcc499186fec0f759ad7a03b79987d822b0
+SHA256: 6e7768666384adbb87ead01d9175729a7f04e2d373b1aaa885e0f196dee3bd48
+Section: 系统增强
+Description: Disable paste tips, Support iOS14-iOS15禁用粘贴提示，支持iOS14-iOS15
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: DisablePasteTips-Roothide
+Sponsor: 搬运工
+
 Package: byg.iosios.net.filzacrack-roothide
 Version: 1.1-8
 Architecture: iphoneos-arm64e
@@ -99,6 +118,23 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.1_iphoneos-arm64e.deb
+Size: 9229928
+MD5sum: 3fa6ca4709852a419835a1b35506cc77
+SHA1: 7204dfd0a299f427705089d851b62cd26ee0765c
+SHA256: c01911e780c169ba78ce85fb72924d69882f9c4c99255d837f446db7e2824267
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData-roothide
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-4
 Architecture: iphoneos-arm64
@@ -114,6 +150,23 @@ Section: Netskao-Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-4_iphoneos-arm64e.deb
+Size: 243648
+MD5sum: b0a55170452091fc87ae64dc9f4d3840
+SHA1: 00b7d93762ffc4110e18886ecb856a492117a5c5
+SHA256: 9d03c565c2c57f781675ccc91a143dec79902e883e1af7089b0cd3c03b83870e
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar-roothide
 
 Package: com.xybp888.lockbutton
 Version: 0.1-2
@@ -312,4 +365,24 @@ Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
 Name: 中国银行去广告
+
+Package: zp.stopautolaunchapps
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zp.stopautolaunchapps_1.0.2_iphoneos-arm64e.deb
+Size: 4768
+MD5sum: 8121da047175def963eb6e565b8fc375
+SHA1: 3e5e4aaa7176efe237cc275b476608b4e9f054cf
+SHA256: fa653c126a06d20ce869f6ad18bf1ae752ca5c93aca4aadab8d4f584604d953b
+Section: Tweaks
+Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯!
+ - 优点:节约内存,少杀后台.
+ - 玄学:减少重启概率
+Author: zqbb
+Name: 听我说谢谢你 - roothide
+Sileodepiction: https://rootless.002599.xyz/web/zp.stopautolaunchapps
 

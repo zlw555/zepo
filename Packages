@@ -318,22 +318,6 @@ Description: 小程序提示要升级微信的，可修改微信版本号为8.0.
 Author: z
 Name: WeChatHookLite
 
-Package: z.wechat
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/z.wechat_1.3_iphoneos-arm64e.deb
-Size: 15280
-MD5sum: fb64cf28602910ac8704f56fcdf96915
-SHA1: fa3eae119ab56e9ed40218441f0b24ddf3a81be3
-SHA256: 092ef2206ac22eedac4977101240bc09fcd8ecfc7387f0e4ccab88ff023ced2a
-Section: Tweaks
-Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
-Author: z
-Name: WeChatHookLite
-
 Package: zgyh
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -365,6 +349,22 @@ Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
 Name: 中国银行去广告
+
+Package: zlw.wechat
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw.wechat_1.5_iphoneos-arm64e.deb
+Size: 15262
+MD5sum: fd6e183f61b12c066518ba98f5b74ac5
+SHA1: fbcd722ac4a68dd217a7055049e4883b7d0ba896
+SHA256: 49be97a091684f8497522c776041325a7d5ce391dad5fa46ef8f859f8ff4762b
+Section: Tweaks
+Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面,点击退出微信生效。
+Author: z
+Name: WeChatHookLite
 
 Package: zp.stopautolaunchapps
 Version: 1.0.2

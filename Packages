@@ -239,36 +239,20 @@ Author: z
 Name: ✦农业银行V7.1.1优化
 
 Package: sysytemzypd
-Version: 1.8
+Version: 2.1.1
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_1.8_iphoneos-arm64e.deb
-Size: 38112
-MD5sum: fe849dcc2289b8d1e237c2281628b130
-SHA1: f4ca4d5082f832f4d5429d28f80cab85b0f85bb0
-SHA256: 8be140496d2b82d943cf84f798be985c2cd9d5e0cf638f615f7c19ab8c613e8a
+Filename: ./debs/sysytemzypd_2.1.1_iphoneos-arm64e.deb
+Size: 38196
+MD5sum: bda78c20eff3276ed5e422c4e8adffee
+SHA1: 8164af895cb38ec63359562d450ed1620c8b1b64
+SHA256: 72bdd9a430693dc27bf7b20aebabde28444323daf2bd8c28f164ab5d32e1e2ee
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
 Name: 系统补丁
-
-Package: wechatqad
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatqad_1.1_iphoneos-arm64e.deb
-Size: 2936
-MD5sum: ed97041093a4615283e78b607d5266e5
-SHA1: 2fa7586d530f79631dc7a7c5d4260c8fc890cd6a
-SHA256: 1f6bbaa201a0e0b46b7138eacb69c72cb9a00249fdd8314bdc8faac7d892ea26
-Section: Tweaks
-Description: 去朋友圈广告+默认勾选原图+微信聊天界面抬高
-Author: z
-Name: 微信补丁-roothide
 
 Package: wechatqad
 Version: 1.2
@@ -336,15 +320,15 @@ Name: 隐藏消息徽章-roothide
 
 Package: z.wechat
 Version: 1.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: z
-Installed-Size: 188
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/z.wechat_1.3_iphoneos-arm64.deb
-Size: 15846
-MD5sum: 0b906a54af71468eca5884655fe53a4f
-SHA1: 0a78b37a0fa7220d6b5c2a45d79f5475a0da472c
-SHA256: a78c4343e6640ee2adb0d9c46edf795f5e5fac5c8a0c9d69fccf35da17ed1b81
+Filename: ./debs/WeChatHookLite_1.3_iphoneos-arm64e.deb
+Size: 14854
+MD5sum: 732e55ef4589c0eecc413c33205905d5
+SHA1: 182e6c82209f0e8680ab21e597aee3257b4dd5c0
+SHA256: bfb1fc6661457bada1edcd198a75460882f6e8a1ad66b7bbd9ea069d76018a12
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
@@ -381,22 +365,6 @@ Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
 Name: 中国银行去广告
-
-Package: zlw.wechat
-Version: 1.6
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw.wechat_1.6_iphoneos-arm64e.deb
-Size: 15628
-MD5sum: 9b7a45318ed9cdfe230d3ae88ac67799
-SHA1: 63adc3ceb768cd601d522ad3d99b09e140124339
-SHA256: 3850858f16e71e33b6998c081dd9d173f60a19f4a3eff45f06c8b32db956f278
-Section: Tweaks
-Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面,点击退出微信生效。
-Author: z
-Name: WeChatHookLite
 
 Package: zp.stopautolaunchapps
 Version: 1.0.2

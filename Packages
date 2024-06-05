@@ -168,6 +168,24 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar-roothide
 
+Package: com.udevs.vpnindicator
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/vpnindicator_1.1.8_iphoneos-arm64e.deb
+Size: 8018
+MD5sum: 373aaefbdee52e7e9740c85b4c54a34a
+SHA1: bbbe299c7d8acc475ff66b22f18ff59d4e2a8765
+SHA256: 2366e3989418bf60394c8222b8e357f9fdd859c517f5d1360f0f381c9676c99f
+Section: Tweaks
+Description: 打开 VPN时 Wi-Fi图标变绿色
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator-绿色
+
 Package: com.xybp888.lockbutton
 Version: 0.1-2
 Architecture: iphoneos-arm64e

@@ -337,20 +337,20 @@ Author: z
 Name: 隐藏消息徽章-roothide
 
 Package: z.wechat
-Version: 1.3
+Version: 1.3.2
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/WeChatHookLite_1.3_iphoneos-arm64e.deb
-Size: 14854
-MD5sum: 732e55ef4589c0eecc413c33205905d5
-SHA1: 182e6c82209f0e8680ab21e597aee3257b4dd5c0
-SHA256: bfb1fc6661457bada1edcd198a75460882f6e8a1ad66b7bbd9ea069d76018a12
+Filename: ./debs/WeChatHookLite_1.3.2_iphoneos-arm64e.deb
+Size: 14608
+MD5sum: 2190b8d6366a56472c25892f0ece4fec
+SHA1: b66a6213e14ad157c1c79eb8bed82908f4f9abf0
+SHA256: 8b0447143a67cbf4257388dd18952bb5d9ee481d16486c3b36b4aa9f053cccc3
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
-Name: WeChatHookLite
+Name: WeChatHookLite-roorhide
 
 Package: zgyh
 Version: 1.1

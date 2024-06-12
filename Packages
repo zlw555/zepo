@@ -288,22 +288,6 @@ Description: 打包自用系统补丁
 Author: z
 Name: 系统补丁
 
-Package: wechatqad
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatqad_1.2_iphoneos-arm64.deb
-Size: 2876
-MD5sum: 6f6bfcd1f666f08847901693b410d5d6
-SHA1: e2ecfb660c0ed8283515e2d70ca8c25918e33a27
-SHA256: a5a5af65377da9d1abfddcb18320cec06ae7e7ff34399db1cf3f6297d3ddb6f0
-Section: Tweaks
-Description: 去朋友圈广告+默认勾选原图
-Author: z
-Name: 微信补丁
-
 Package: ximalaya
 Version: 2.5
 Architecture: iphoneos-arm64e
@@ -356,13 +340,13 @@ Package: z.wechat
 Version: 1.3.2
 Architecture: iphoneos-arm64e
 Maintainer: z
-Installed-Size: 172
+Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/WeChatHookLite_1.3.2_iphoneos-arm64e.deb
-Size: 14608
-MD5sum: 2190b8d6366a56472c25892f0ece4fec
-SHA1: b66a6213e14ad157c1c79eb8bed82908f4f9abf0
-SHA256: 8b0447143a67cbf4257388dd18952bb5d9ee481d16486c3b36b4aa9f053cccc3
+Filename: ./debs/z.wechat_1.3.2_iphoneos-arm64e.deb
+Size: 10824
+MD5sum: 243590368b4f3ce12e786c573ddeedf7
+SHA1: 2090c80e059d45dcfe07ebd0ef20dbdf33e6b300
+SHA256: b5edf0a588f35e1e7c08541e9570dad034b6144fb603ceb9788043f42e84ca08
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z

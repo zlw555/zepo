@@ -288,6 +288,22 @@ Description: 打包自用系统补丁
 Author: z
 Name: 系统补丁
 
+Package: sysytemzypd
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/sysytemzypd_2.3_iphoneos-arm64e.deb
+Size: 38998
+MD5sum: d4cbd9a4135402462a80d93206ea0942
+SHA1: bc58f55005ba070d155d286bd8d64bc654179c67
+SHA256: 00b756cd7de9ef408832bd7b2fe9b953bb88d58e02a5b3cc226a6c043e851f3d
+Section: Tweaks
+Description: 打包自用系统补丁
+Author: z
+Name: 系统补丁-roothide
+
 Package: ximalaya
 Version: 2.5
 Architecture: iphoneos-arm64e

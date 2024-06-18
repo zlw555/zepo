@@ -273,32 +273,16 @@ Author: z
 Name: ✦农业银行V7.1.1优化
 
 Package: sysytemzypd
-Version: 2.1.1
+Version: 2.3.1
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_2.1.1_iphoneos-arm64e.deb
-Size: 38196
-MD5sum: bda78c20eff3276ed5e422c4e8adffee
-SHA1: 8164af895cb38ec63359562d450ed1620c8b1b64
-SHA256: 72bdd9a430693dc27bf7b20aebabde28444323daf2bd8c28f164ab5d32e1e2ee
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 系统补丁
-
-Package: sysytemzypd
-Version: 2.3
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_2.3_iphoneos-arm64e.deb
-Size: 38998
-MD5sum: d4cbd9a4135402462a80d93206ea0942
-SHA1: bc58f55005ba070d155d286bd8d64bc654179c67
-SHA256: 00b756cd7de9ef408832bd7b2fe9b953bb88d58e02a5b3cc226a6c043e851f3d
+Filename: ./debs/sysytemzypd_2.3.1_iphoneos-arm64e.deb
+Size: 39022
+MD5sum: c04d369eb7b804190374048b36699760
+SHA1: 2ef64f59910428a0ad182907e17c5f3e537d1a0f
+SHA256: 86aa17c8aadd7b63a968d999f7b1490fb3f5b68ef4098e448aa46597ac70b6ee
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z

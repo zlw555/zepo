@@ -1,16 +1,16 @@
 Package: batteryview
-Version: 1.0
+Version: 1.0.8
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/batteryview_1.0_iphoneos-arm64e.deb
-Size: 4230
-MD5sum: 303190b7a450343db114e94266def14d
-SHA1: 1b9f3e67737a8321bc60edd20727d60f451486e7
-SHA256: 498d0e57db205e3b7fd781bb06e725313caf060b8ed0539a7ab475db9ac063bb
+Filename: ./debs/batteryview_1.0.8_iphoneos-arm64e.deb
+Size: 4666
+MD5sum: 1a92d024252270cd3354b79c2460ca42
+SHA1: 04769d8d5f9c0812a9cf2a4b72805d26373e4bc5
+SHA256: b36e650e2ec7fbcc93598896da690d85f84b8ca6fd087410be3b65b0b9d46c21
 Section: Tweaks
-Description: 加大iOS15电池百分比，去除填充色
+Description: iOS15电池百分比，去除填充色
 Author: z
 Name: 电池百分比-roothide
 

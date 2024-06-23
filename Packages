@@ -274,6 +274,22 @@ Name: ✦农业银行V7.1.1优化
 
 Package: sysytemzypd
 Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/sysytemzypd_2.3.1_iphoneos-arm64.deb
+Size: 39196
+MD5sum: 575e5a05394f0aeb06980c53fd04bfcb
+SHA1: 696de66c0f9cfc8e76cf4c0cc8edfa31d22530f5
+SHA256: 1596f94265ab89754f7f7fe28139ee22720641c62e53a61a7fcb00e321d38580
+Section: Tweaks
+Description: 打包自用系统补丁
+Author: z
+Name: 系统补丁-rootless
+
+Package: sysytemzypd
+Version: 2.3.1
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 264
@@ -287,6 +303,22 @@ Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
 Name: 系统补丁-roothide
+
+Package: wechatqad
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatqad_1.1.1_iphoneos-arm64.deb
+Size: 3030
+MD5sum: 95e0fc45874a8b8bfd300a0e766f8327
+SHA1: be70c04bdc9dfbdbaab47c17a319b311fbbcb509
+SHA256: 199a1bd86d35231fed0c8e56f57bf49153806f143bd0317c61d31041a00aa5bd
+Section: Tweaks
+Description: 去朋友圈广告
+Author: z
+Name: 微信补丁-rootless
 
 Package: ximalaya
 Version: 2.5

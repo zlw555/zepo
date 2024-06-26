@@ -273,36 +273,20 @@ Author: z
 Name: ✦农业银行V7.1.1优化
 
 Package: sysytemzypd
-Version: 2.3.1
+Version: 2.3.2
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_2.3.1_iphoneos-arm64.deb
-Size: 39196
-MD5sum: 575e5a05394f0aeb06980c53fd04bfcb
-SHA1: 696de66c0f9cfc8e76cf4c0cc8edfa31d22530f5
-SHA256: 1596f94265ab89754f7f7fe28139ee22720641c62e53a61a7fcb00e321d38580
+Filename: ./debs/sysytemzypd_2.3.2_iphoneos-arm64.deb
+Size: 39192
+MD5sum: b17ae84cbfc9e1f1936b114c7356c174
+SHA1: cf70baeaab089257eeb90ba27276ea0d2c312899
+SHA256: 5d10f616977949c304a03c3283891c82498a993b76dd081eeb56a4eaefaee542
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
 Name: 系统补丁-rootless
-
-Package: sysytemzypd
-Version: 2.3.1
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_2.3.1_iphoneos-arm64e.deb
-Size: 39022
-MD5sum: c04d369eb7b804190374048b36699760
-SHA1: 2ef64f59910428a0ad182907e17c5f3e537d1a0f
-SHA256: 86aa17c8aadd7b63a968d999f7b1490fb3f5b68ef4098e448aa46597ac70b6ee
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 系统补丁-roothide
 
 Package: wechatqad
 Version: 1.1.1

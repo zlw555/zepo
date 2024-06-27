@@ -273,16 +273,16 @@ Author: z
 Name: ✦农业银行V7.1.1优化
 
 Package: sysytemzypd
-Version: 2.3.2
+Version: 2.3.3
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_2.3.2_iphoneos-arm64.deb
-Size: 39192
-MD5sum: b17ae84cbfc9e1f1936b114c7356c174
-SHA1: cf70baeaab089257eeb90ba27276ea0d2c312899
-SHA256: 5d10f616977949c304a03c3283891c82498a993b76dd081eeb56a4eaefaee542
+Filename: ./debs/sysytemzypd_2.3.3_iphoneos-arm64.deb
+Size: 39016
+MD5sum: 47b668a69be519cbf428d893e756c6df
+SHA1: 8480423f4feea4e3193edac7586ad40288f539ba
+SHA256: b24275eab9831ce4027c9b3d6a208bb0c64775999a16f117a809818c256d93df
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z

@@ -279,10 +279,10 @@ Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/sysytemzypd_2.3.3_iphoneos-arm64.deb
-Size: 39016
-MD5sum: 47b668a69be519cbf428d893e756c6df
-SHA1: 8480423f4feea4e3193edac7586ad40288f539ba
-SHA256: b24275eab9831ce4027c9b3d6a208bb0c64775999a16f117a809818c256d93df
+Size: 39730
+MD5sum: ae599b75b2f988813598fa4944675202
+SHA1: 2c6d290eb3fca4de5deaebe740a5c2173a7076cd
+SHA256: a9e4a2a0a96a63a929b68c5924fd1b7692f2dcb329f8bfa7c04fd56d4dc3258d
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z

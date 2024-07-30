@@ -279,10 +279,10 @@ Maintainer: z
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/sysytemzypd_2.3.3_iphoneos-arm64.deb
-Size: 39730
-MD5sum: ae599b75b2f988813598fa4944675202
-SHA1: 2c6d290eb3fca4de5deaebe740a5c2173a7076cd
-SHA256: a9e4a2a0a96a63a929b68c5924fd1b7692f2dcb329f8bfa7c04fd56d4dc3258d
+Size: 40428
+MD5sum: f2ce33ffe5b8dde63051618ec9d8d51f
+SHA1: 9dab84f6ddf036c08fe66439c88bc59ac989e909
+SHA256: d1620a3d47f1d2dc3840bfff2d980f9bbee9cbe49bb1b2407c00edc844350efe
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
@@ -304,6 +304,22 @@ Description: 去朋友圈广告
 Author: z
 Name: 微信补丁-rootless
 
+Package: xhome14
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xhome14_1.5.3_iphoneos-arm.deb
+Size: 4828
+MD5sum: 172567dccba558ac9eeaba18369ba48d
+SHA1: 7d22a31bc674cb69354bdb315773df6dab4bfc6a
+SHA256: 3d87dc4af83937be6504bd81fee9c3f44de220a2fd5cde60d0aa721b4f58695f
+Section: 自用插件
+Description: 自由ios14手势
+Author: zlw555
+Name: ios14xhome
+
 Package: ximalaya
 Version: 2.5
 Architecture: iphoneos-arm64e
@@ -319,6 +335,22 @@ Section: Tweaks
 Description: 最新9.2.51去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
 Name: 喜马拉雅优化-roothide
+
+Package: ximalaya
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.5.1_iphoneos-arm64.deb
+Size: 4894
+MD5sum: 580ac8ac8b22ee42ba8ba84d91d2a2f2
+SHA1: bbb21a3d8ecafd997aaf6d33447997a01a904e0a
+SHA256: e1c909ba1a863dffd4d684149380db52f2165d82027298f845fd272332f73fb3
+Section: Tweaks
+Description: 支持最新9.2.71去广告
+Author: z
+Name: 喜马拉雅优化-rootless
 
 Package: z.badgediconview
 Version: 1.0

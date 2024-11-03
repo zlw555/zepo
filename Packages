@@ -242,6 +242,24 @@ Sponsor: xybp888
 
 Package: nolowpowermode30secautolock
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Brend0n
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/nolowpowermode30secautolock_1.0_iphoneos-arm64.deb
+Size: 3978
+MD5sum: 6d48f6f737b6705bdf5e08cd9a67b1a6
+SHA1: 8ab98dc48315fcd9f4ef20b97340e6195fc3c9d4
+SHA256: d3f6a1ff7841905dff6daee7bf63c77b0e08b6836efb981c5f79563cc55ecd2a
+Section: Tweaks
+Description: 在低功耗模式下本地调整自动锁定间隔.
+Author: Brend0n
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
+Name: NoLowPowerMode30SecAutoLock
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
+
+Package: nolowpowermode30secautolock
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 152

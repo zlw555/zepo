@@ -12,6 +12,17 @@
         "size": "4kb",
         "author": "zlw555",
         "screenshots": []
-      }
+      },
+      {
+          "name": "Quantumult",
+          "version": "1.5.2",
+          "description": "Quantumult",
+          "icon_url": "https://raw.kkgithub.com/zlw555/thoes/master/icons/Quantumult.png",
+          "dylib": "https://raw.kkgithub.com/zlw555/thoes/master/downloads/Quantumult\ X-1.5.2.tipa",
+          "section": "Tweaks",
+          "size": "4kb",
+          "author": "zlw555",
+          "screenshots": []
+        }
   ]
 }
